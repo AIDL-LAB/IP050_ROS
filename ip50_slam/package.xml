@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ip200_slam</name>
+  <name>ip50_slam</name>
   <version>0.0.0</version>
-  <description>The ip200_slam package</description>
+  <description>The ip50_slam package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
